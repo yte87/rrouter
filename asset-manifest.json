@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rrouter/static/css/main.2988f928.chunk.css",
+    "main.js": "/rrouter/static/js/main.0d851568.chunk.js",
+    "main.js.map": "/rrouter/static/js/main.0d851568.chunk.js.map",
+    "runtime-main.js": "/rrouter/static/js/runtime-main.635eb0fe.js",
+    "runtime-main.js.map": "/rrouter/static/js/runtime-main.635eb0fe.js.map",
+    "static/js/2.126121ae.chunk.js": "/rrouter/static/js/2.126121ae.chunk.js",
+    "static/js/2.126121ae.chunk.js.map": "/rrouter/static/js/2.126121ae.chunk.js.map",
+    "index.html": "/rrouter/index.html",
+    "precache-manifest.93dd031e30b0296a097c415d36b04b5d.js": "/rrouter/precache-manifest.93dd031e30b0296a097c415d36b04b5d.js",
+    "service-worker.js": "/rrouter/service-worker.js",
+    "static/css/main.2988f928.chunk.css.map": "/rrouter/static/css/main.2988f928.chunk.css.map",
+    "static/js/2.126121ae.chunk.js.LICENSE.txt": "/rrouter/static/js/2.126121ae.chunk.js.LICENSE.txt",
+    "static/media/header1.jpg": "/rrouter/static/media/header1.70e6670e.jpg",
+    "static/media/header2.jpg": "/rrouter/static/media/header2.33eca35f.jpg",
+    "static/media/header3.jpg": "/rrouter/static/media/header3.d9d36b65.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.635eb0fe.js",
+    "static/js/2.126121ae.chunk.js",
+    "static/css/main.2988f928.chunk.css",
+    "static/js/main.0d851568.chunk.js"
+  ]
+}
